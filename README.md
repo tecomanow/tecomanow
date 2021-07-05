@@ -10,13 +10,13 @@ Working on Android (Java) for scientific initiation with Executive Commission fo
 ## My developed apps 📱
 
 #### WaterDroid: Don't forget to drink water
-WaterDroid is an application that aims to remind people to drink water at the right time and set the ideal amount for that person. It was developed in 2021. <a href="https://play.google.com/store/apps/details?id=com.matreis.waterdroid">Avaliable here</a>
+WaterDroid is an application that aims to remind people to drink water at the right time and set the ideal amount for that person. It was developed in 2021.  <br> <br><a href="https://play.google.com/store/apps/details?id=com.matreis.waterdroid">Avaliable here</a>
 
 #### WaterDroid Pro: Don't forget to drink water
-WaterDroid Pro is an application that aims to remind people to drink water at the right time and set the ideal amount for that person. This version has some different cup options than the free version, has no ads and has a customized notification. It was developed in 2021 <a href="https://play.google.com/store/apps/details?id=com.matreis.waterdroidpro">Avaliable here</a>
+WaterDroid Pro is an application that aims to remind people to drink water at the right time and set the ideal amount for that person. This version has some different cup options than the free version, has no ads and has a customized notification. It was developed in 2021. <br><br><a href="https://play.google.com/store/apps/details?id=com.matreis.waterdroidpro">Avaliable here</a>
 
 #### UESC Organizer
-UESC Organizer is an application designed to help undergraduate students at the State University of Santa Cruz organize their subjects, grades, absences, events and schedules. <a href="https://play.google.com/store/apps/details?id=com.matreis.organizadoruesc">Avaliable here</a>
+UESC Organizer is an application designed to help undergraduate students at the State University of Santa Cruz organize their subjects, grades, absences, events and schedules. <br> <br> <a href="https://play.google.com/store/apps/details?id=com.matreis.organizadoruesc">Avaliable here</a>
 
 ## How to reach me 📫
 
