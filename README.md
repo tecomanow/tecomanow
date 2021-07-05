@@ -4,7 +4,7 @@ I'm Mateus, currently studying computer science at the State University of Santa
 
 ### What I focusing on 💻
 
-Currently studying Android development with Java and Flutter
+Currently studying Android development with Java and Flutter<br>
 Working on Android (Java) for scientific initiation with Executive Commission for Cocoa Cultivation Planning (CEPLAC)
 
 ## My developed apps 📱
