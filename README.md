@@ -7,6 +7,8 @@ I'm Mateus, currently studying computer science at the State University of Santa
 Currently studying Android development with Java and Flutter<br>
 Working on Android (Java) for scientific initiation with Executive Commission for Cocoa Cultivation Planning (CEPLAC)
 
+College experience: C, R, Java, Prolog and Assembly
+
 ## My developed apps 📱
 
 #### WaterDroid: Don't forget to drink water
