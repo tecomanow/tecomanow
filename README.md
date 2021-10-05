@@ -2,13 +2,13 @@
 
 I'm Mateus, currently studying computer science at the State University of Santa Cruz, I have interests in Android mobile development. Since 2018 I discovered android development in Java and since then I've been studying and learning more. I also have some apps available on Google Play.
 
-College experience: C, R, Java, Prolog and Assembly
+College experience: C, R, Java, Prolog and Assembly<br>
 Personal experience: Java and Kotlin
 
 ### What I focusing on 💻
 
 Currently studying Android development with Java and Kotlin<br>
-Working on Android (Java) for scientific initiation with Executive Commission for Cocoa Cultivation Planning (CEPLAC)
+Working on Android (Java) for scientific initiation with Executive Commission for Cocoa Cultivation Planning (CEPLAC)<br>
 Working on Android (Kotlin) for Food delivery app
 
 ## My developed apps 📱
