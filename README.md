@@ -9,7 +9,7 @@ Personal experience: Java and Kotlin
 
 Currently studying Android development with Java and Kotlin<br>
 Working on Android (Java) for scientific initiation with Executive Commission for Cocoa Cultivation Planning (CEPLAC)<br>
-Working on Android (Kotlin) for Food delivery app
+Working on Android (Kotlin) for all my apps since 2021
 
 ## My developed apps 📱
 
