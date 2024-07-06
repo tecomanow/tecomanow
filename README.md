@@ -1,6 +1,6 @@
 ## Hi, I'm Mateus Reis 👋
 
-I'm Mateus, currently studying computer science at the State University of Santa Cruz, I have interests in Android mobile development. Since 2018 I discovered android development in Java and since then I've been studying and learning more. I also have some apps available on Google Play.
+I'm Mateus, I have a degree in computer science from the State University of Santa Cruz, I have fully interests in Android mobile development. Since 2018 I discovered android development in Java and since then I've been studying and learning more.
 
 College experience: C, R, Java, Prolog and Assembly<br>
 Personal experience: Android with Java and Kotlin
@@ -9,18 +9,21 @@ Personal experience: Android with Java and Kotlin
 
 Currently studying Android development with Java and Kotlin<br>
 Working on Android (Java) at Mozaiko<br>
-Working on Android (Kotlin) for all my apps since 2021
+Working on Android (Kotlin) at Mozaiko and for all my apps since 2021
 
-## My developed apps 📱
+## My developed personal apps until now 📱
+
+#### Mr. Rastreios
+Mr. Tracking was an application that allows users to track their postal orders in a much more intuitive way and with beautiful interfaces.
 
 #### WaterDroid: Don't forget to drink water
-WaterDroid is an application that aims to remind people to drink water at the right time and set the ideal amount for that person. It was developed in 2021.  <br> <br><a href="https://play.google.com/store/apps/details?id=com.matreis.waterdroid">Avaliable here</a>
+WaterDroid was an application that aims to remind people to drink water at the right time and set the ideal amount for that person. It was developed in 2021.
 
 #### WaterDroid Pro: Don't forget to drink water
-WaterDroid Pro is an application that aims to remind people to drink water at the right time and set the ideal amount for that person. This version has some different cup options than the free version, has no ads and has a customized notification. It was developed in 2021. <br><br><a href="https://play.google.com/store/apps/details?id=com.matreis.waterdroidpro">Avaliable here</a>
+WaterDroid Pro was an application that aims to remind people to drink water at the right time and set the ideal amount for that person. This version has some different cup options than the free version, has no ads and has a customized notification. It was developed in 2021.
 
 #### UESC Organizer
-UESC Organizer is an application designed to help undergraduate students at the State University of Santa Cruz organize their subjects, grades, absences, events and schedules. <br> <br> <a href="https://play.google.com/store/apps/details?id=com.matreis.organizadoruesc">Avaliable here</a>
+UESC Organizer was an application designed to help undergraduate students at the State University of Santa Cruz organize their subjects, grades, absences, events and schedules. 
 
 ## How to reach me 📫
 
